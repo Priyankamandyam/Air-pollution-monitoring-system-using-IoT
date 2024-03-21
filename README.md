@@ -1,0 +1,4 @@
+Air quality monitoring refers to continuous measurement of specific air pollutants also known as “criteria air pollutants”. Obtained air pollution data together with natural background/trace gas monitoring and stationary source emission monitoring helps to define what kind of air pollution people are exposed to.
+![Screenshot 2024-03-21 125340](https://github.com/Priyankamandyam/Air-pollution-monitoring-system-using-IoT/assets/164315213/5e47ee7e-1735-4b7d-974d-89b0a769d2e5)
+![Screenshot 2024-03-21 125401](https://github.com/Priyankamandyam/Air-pollution-monitoring-system-using-IoT/assets/164315213/4295713c-ed9a-45e3-9fa9-8f10ef7522a0)
+![Screenshot 2024-03-21 125412](https://github.com/Priyankamandyam/Air-pollution-monitoring-system-using-IoT/assets/164315213/bd0e1a04-e957-4148-92c5-3d8c6a7897e0)
